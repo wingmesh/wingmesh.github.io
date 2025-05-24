@@ -1,6 +1,6 @@
-# 📁 WingMesh GitHub Organization README
+# 📁 WingMESH GitHub Organization README
 
-## WingMesh
+## WingMESH
 
 **Use Case Design and IoT Strategy Automation**
 
@@ -38,11 +38,11 @@ Use the Issues section or reach out via [@grgxlab](https://github.com/grgxlab).
 
 # 🌍 wingmesh.github.io – Landing Page Prep (markdown draft)
 
-## Welcome to WingMesh
+## Welcome to WingMESH
 
 **IoT Planning. Automated.**
 
-WingMesh helps you design smarter IoT solutions with less effort. Whether you're launching a LoRaWAN deployment or validating a new concept, our tools, templates, and AI assistants support your journey—without Zoom calls, sales pitches, or complexity.
+WingMESH helps you design smarter IoT solutions with less effort. Whether you're launching a LoRaWAN deployment or validating a new concept, our tools, templates, and AI assistants support your journey—without Zoom calls, sales pitches, or complexity.
 
 ### 🚀 Tools:
 - **Use Case Planner (coming soon)**: Input your goals, get a tailored plan.
