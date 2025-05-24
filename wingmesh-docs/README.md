@@ -1,12 +1,10 @@
-# 📁 WingMESH GitHub Organization README
-
-## WingMESH
+# 🛰️ WingMESH
 
 **Use Case Design and IoT Strategy Automation**
 
-WingMesh is a microconsulting lab and automation studio focused on simplifying LoRaWAN and IoT use-case design. We develop open-source tools, planning templates, and AI-driven assistants to help IoT startups and engineers plan smarter—with minimal human friction.
+WingMESH is a microconsulting lab and automation studio focused on simplifying LoRaWAN and IoT use-case design. We develop open-source tools, planning templates, and AI-driven assistants to help IoT startups and engineers plan smarter—with minimal human friction.
 
-### 🌐 Projects Under WingMesh:
+## 🌐 Projects Under WingMESH
 
 - **Use Case Planner**  
   An interactive tool to help you draft, refine, and export IoT use case plans.
@@ -20,16 +18,23 @@ WingMesh is a microconsulting lab and automation studio focused on simplifying L
 - **LoraLuna** *(Featured Project)*  
   A visionary proposal for a lunar LoRaWAN communications network, by [@grgxlab](https://github.com/grgxlab), featured under WingMESH.
 
-### 💼 What We Do
-- Modular Use Case Design
-- LoRaWAN Entry Strategy Guidance
-- Lightweight Asynchronous Consulting
-- AI Integration for IoT Projects
+## 💼 What We Do
 
-### ❌ What We Don’t Do
-- Field Deployments / Radio Physics
-- Firmware Engineering
-- Synchronous Calls or 24/7 Support
+- Modular Use Case Design  
+- LoRaWAN Entry Strategy Guidance  
+- Lightweight Asynchronous Consulting  
+- AI Integration for IoT Projects  
+
+## ❌ What We Don’t Do
+
+- Field Deployments / Radio Physics  
+- Firmware Engineering  
+- Synchronous Calls or 24/7 Support  
+
+## ✉️ Contact / Collaboration
+
+Use the Issues section or reach out via [@grgxlab](https://github.com/grgxlab).
+
 
 ### ✉️ Contact / Collaboration
 Use the Issues section or reach out via [@grgxlab](https://github.com/grgxlab).
