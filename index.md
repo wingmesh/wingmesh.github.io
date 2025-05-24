@@ -1,4 +1,3 @@
----
 # 📁 WingMesh GitHub Organization README
 
 ## WingMesh
